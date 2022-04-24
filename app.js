@@ -67,14 +67,16 @@
 // })
 
 
-
-
 // app.listen(5000,function(){
 //     console.log("Server is running on port 5000");
 // })
 
-// //API KEY- 69b1e1281de4cfc17ee825d4ca7e8694-us14
-// //list id -8b32c02977
+// API KEY- 257308a81becc6ef6309e98e3a1a2fe8-us14
+// list id -8b32c02977
+//This above code not working because of some new documentation of mailchimp api.
+//Below is the code as per new documentation , but it still not connecting the api key of mailchimp.
+
+
 
 
 //Requiring mailchimp's module
